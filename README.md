@@ -49,12 +49,6 @@ This Python-based console application helps automate and manage store tasks effi
 
 ---
 
-## 🔍 Screenshots
-
-*(Optional — Add screenshots of terminal output, invoices, or product display here if needed for demo/report.)*
-
----
-
 ## 🧪 Testing
 
 Tested in:
